@@ -54,7 +54,7 @@ This module defines the T-Shirt model using Three.js. It loads the 3D model, app
 <h4>aiService.js</h4>
 This service handles AI-related functionalities, such as generating logos using AI algorithms. It communicates with the AI backend API.
 
- <h2>App Flow<h2>
+ <h2>App Flow</h2>
 The App component initializes the state for the T-Shirt color and logo.<br>
 The ColorPicker component allows the user to select a color and emits an event when the color is changed.<br>
 The LogoEditor component provides options to upload a custom logo image or generate a logo using AI. It updates the selected logo in the state.<br>
